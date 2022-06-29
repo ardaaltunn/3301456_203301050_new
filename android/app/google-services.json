@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "48006990456",
+    "project_id": "icha-store",
+    "storage_bucket": "icha-store.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48006990456:android:8ff9e967795beac2f63b8d",
+        "android_client_info": {
+          "package_name": "com.example.icha_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48006990456-srap393t720dtvrr1q6alc1cp6bogtt5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYoNuYoSTXoMFWlRZW2-tGtVh6c-dcbQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48006990456-srap393t720dtvrr1q6alc1cp6bogtt5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
